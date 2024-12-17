@@ -1,0 +1,59 @@
+/* es.1*/
+.jumbotron > div > h1 {
+    color: red;
+}
+
+/*es.2*/
+nav > * {
+    color: green;
+}
+
+/*es.3*/
+.lead > a {
+    color: yellow;
+}
+
+/*es.4*/
+.col-md-8 > div:first-of-type {
+    background-color: blueviolet;
+}
+
+/*es.5*/
+.blog-main > :nth-child(2) > hr {
+    border-color: yellow;
+}
+
+/*es.6*/
+nav > span:nth-child(even) {
+    color: red;
+}
+
+/*es.7*/
+.blog-sidebar :nth-child(2) > ol > li {
+    background-color: green;
+}
+
+/*es.8*/
+.blog-main :nth-child(3) > p:first-of-type > a {
+    background-color: green;
+}
+
+/*es.9*/
+.blog-main :nth-child(4) > ul > li:nth-child(2) {
+    color: orange;
+}
+
+/*es.10*/
+body > a:last-of-type {
+    color: red;
+}
+
+/*es.11*/
+.blog-pagination :nth-child(2) {
+    color: violet;
+}
+
+/*es.12*/
+footer > p a:nth-child(2) {
+    background-color:orange
+}
